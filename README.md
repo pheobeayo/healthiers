@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+Healthiers
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Healthiers, an AI-generated product, provides individuals with personalized healthcare plans based on their health data and AI algorithms. 
 
-## Available Scripts
+The product enables the minting of Non-Fungible Tokens (NFTs) that represent these personalized healthcare plans, which are stored on the blockchain offering recommendations, progress tracking, and seamless information accessed by the user and their healthcare providers, which can be used to create a more comprehensive and personalized treatment plan.
 
-In the project directory, you can run:
 
-### `npm start`
+Problem Statement:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+The current healthcare management system lacks a comprehensive and personalized approach, leading to inefficiencies and limited access to vital health information. Individuals find it difficult to get the care they need and struggle to navigate their healthcare journey with fragmented data and limited insights. Healthcare providers face challenges in delivering tailored treatment plans due to limited access to complete and up-to-date patient information. There is a need for a solution combining personalized healthcare plans, AI-driven recommendations, and blockchain technology to revolutionize how individuals manage their health, ensuring seamless information flow, improved treatment outcomes, and enhanced collaboration between individuals and healthcare providers.
 
-### `npm test`
+Solution:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Healthiers provides a solution to these problems by providing individuals with personalized healthcare plans based on their needs and goals. The product uses AI algorithms to analyze health data and generate personalized recommendations for diet, exercise, medication, lifestyle changes etc.  These recommendations go beyond generic advice and are designed to meet individual health goals.
+Additionally, Healthiers allows users to track their progress towards their health goals and share their information with their healthcare providers.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
