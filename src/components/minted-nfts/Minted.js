@@ -18,11 +18,11 @@ const Minted = () => {
     return (
         <section className='bg-[#102428]'>
        
-               <h2 class='text-white text-4xl md:mx-96 font-bold md:px-28 mt-8'>Minted NFTS</h2>
+               <h2 class='text-white text-4xl md:mx-96 font-bold md:px-28 mt-16'>Minted NFTS</h2>
                     <img src={arrow} alt="arrow" class='mx-96 px-48'/>
                     <h6 class='text-white text-xl mx-96 font-bold'>Please note that these NFTs are made public by the owners</h6>
                 
-                    <div className="grid-cols-4 gap-4 md:flex md:flex-row mx-8 mt-2">
+                    <div className="grid-cols-4 gap-4 md:flex md:flex-row mx-8 mt-8">
                <img src={weight} alt="weight" />
                     <img src={wellness} alt="wellness" />
                     <img src={diabetescontrol} alt="diabetescontrol" />

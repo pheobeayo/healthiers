@@ -22,11 +22,11 @@ const What = () => {
     return (
         <section className='bg-[#102428]'>
 
-            <h2 class='text-white text-3xl mx-96 font-bold px-8 mt-4'>What can we help you with today?</h2>
-            <img src={arrow} alt="arrow" class='mx-96 px-36'/>
+            <h2 class='text-white text-3xl mx-96 font-bold px-8 mt-8'>What can we help you with today?</h2>
+            <img src={arrow} alt="arrow" class='mx-96 px-40'/>
             <h6 class='text-white text-xl mx-96 font-bold px-8'>Let’s help you optimize your well-being</h6>
 
-            <div className="grid-cols-4 gap-4 md:flex md:flex-row mx-8 mt-2">
+            <div className="grid-cols-4 gap-4 md:flex md:flex-row mx-8 mt-8">
                 <img src={diabetes} alt="diabetes" />
                 <img src={hypertension} alt="hypertension" />
                 <img src={cardiovascular} alt="cardiovascular" />

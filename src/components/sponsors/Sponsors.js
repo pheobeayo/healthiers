@@ -25,7 +25,7 @@ const Sponsor = () => {
             <img src={arrow} alt="arrow" class='mx-96 px-48' />
             <h6 class='text-white text-xl mx-96 font-bold'>Meet our well renowned and recognised partners</h6>
 
-            <div className="grid-cols-4 gap-28 md:flex md:flex-row mx-8 mt-2">
+            <div className="grid-cols-4 gap-28 md:flex md:flex-row mx-8 mt-8">
                 <img src={polk} alt="polk" />
                 <img src={astar} alt="astar" />
                 <img src={zeit} alt="zeit" />
