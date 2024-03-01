@@ -16,7 +16,7 @@ const Key = () => {
 
                 <div className="container mx-auto px-2 sm:px-[10px] py-[10px]">
 
-                    <h2 className="text-white text-3xl font-bold leading-10 md:mx-96 md:px-8">
+                    <h2 className="text-white text-3xl font-bold leading-10 mt-8 md:mx-96 md:px-8">
                         Key features of Healthiers?
                     </h2>
                     <img src={arrow} alt="arrow" class='mx-96 px-36' />
