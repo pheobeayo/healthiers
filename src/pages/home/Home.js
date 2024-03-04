@@ -32,7 +32,7 @@ const Home = () => {
                                                 <br></br>tailored exclusively to your unique health profile.</h3>
                                         <div className="flex item-centre gap-8  mx-8 mt-8">
                                                 <Link to='/mint' style={{ textDecoration: 'none', color: 'white' }}><button class="bg-[#00B9E5] hover:bg-[#102428] text-white font-semibold py-2  border-[#00B9E5] border-2 w-28 h-10 rounded">Mint NFTs</button></Link>
-                                                <Link><button class="bg-[#102428] hover:bg-[#00B9E5] text-[#00B9E5] font-semibold py-2  border-[#102428] w-28 h-10 rounded">Learn More </button></Link>
+                                                <Link><button class="bg-[#102428] hover:bg-[#00B9E5] text-[#00B9E5] font-semibold py-2 border-[#00B9E5] border-2 w-28 h-10 rounded">Learn More </button></Link>
                                         </div>
                                         <button class="bg-[#102428] hover:bg-[#00B9E5] text-[#00B9E5] font-semibold py-2  border-[#00B9E5] border-2 w-96 h-20 rounded mt-20 mx-8">   20k+ <p>Users</p> 11k+ Minted NFTs</button>
                                 </div>
